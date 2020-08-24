@@ -1,2 +1,2 @@
 # hello-world
-first github project
+Using this site to learn coding, etc.
